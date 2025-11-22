@@ -1,0 +1,8 @@
+a = input("nhập họ tên của bạn:")
+b = input("nhập số tuổi của bạn:")
+c = input("nhập quê quán của bạn:")
+d = input("nhập sở thích của bạn:")
+print("tên bạn là",a)
+print("tuổi của bạn là",b)
+print("quê quán của bạn là",c)
+print("sở thích của bạn là",d)
